@@ -5,6 +5,7 @@
 
 * Internship Domain: Python Development Intern
 * Project Level: Entry Level
+* Project Title - Password Generator
 * Assigned By: CodeClause Internship
 
 **Overview**
