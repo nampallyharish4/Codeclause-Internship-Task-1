@@ -1,9 +1,29 @@
-# Codeclause-Internship-Task-1
-Project ID - #CC9863
-Project Title - Password Generator
-Internship Domain - Python Development Intern
-Project Level - Entry Level
-Assigned By- CodeClause Internship
+# Password Generator  
+*Project ID: #CC9863*
 
-Created a password generator that generates strong and random passwords.
-Technologies used - Python
+**Internship Information**
+
+* Internship Domain: Python Development Intern
+* Project Level: Entry Level
+* Assigned By: CodeClause Internship
+
+**Overview**
+
+This project provides a password generator that creates strong and random passwords to enhance online security.
+
+**Technologies**
+
+* Python 
+
+**Features**
+
+* Generates passwords of customizable length
+* Option to include uppercase, lowercase, numbers, and special characters
+* Ensures randomness for security
+
+**Usage** 
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run the script: `python password_generator.py`
+4. Follow the prompts to customize your password preferences.
