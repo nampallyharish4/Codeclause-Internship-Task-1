@@ -6,7 +6,7 @@ import pyperclip
 root =Tk()
 root.geometry("400x400")
 root.resizable(0,0)
-root.title("CodingHubs - PASSWORD GENERATOR")
+root.title("PASSWORD GENERATOR")
 #heading
 heading = Label(root, text = 'PASSWORD GENERATOR' , font ='arial 15 bold').pack()
 ###select password length
