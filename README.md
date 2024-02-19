@@ -16,6 +16,11 @@ This project provides a GUI to generator passwords that creates strong and rando
 
 * Python 
 
+**Libraries used**
+* import tkinter
+* import random
+* import pyperclip
+
 **Features**
 
 * Generates passwords of customizable length
