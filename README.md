@@ -10,7 +10,7 @@
 
 **Overview**
 
-This project provides a GUI to generator passwords that creates strong and random passwords to enhance online security.
+This project provides a Graphical User Interface that creates strong and random passwords to enhance online security.
 
 **Technologies used**
 
